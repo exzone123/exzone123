@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rafid KP
+- 👀 I’m interested in Webdevelopment
+- 🌱 I’m currently learning Engineering
